@@ -1,4 +1,4 @@
-FROM java
+FROM openjdk
 MAINTAINER Prometheus Team <prometheus-developers@googlegroups.com>
 EXPOSE 9106
 
